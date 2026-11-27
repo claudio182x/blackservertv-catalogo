@@ -1,7 +1,7 @@
 [
   {
     "nombre": "Sintel",
-    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "url": "https://media.w3.org/2010/05/sintel/trailer.mp4",
     "categoria": "Fantasía",
     "tipo": "pelicula",
     "sinopsis": "Una joven emprende un viaje para encontrar a un pequeño dragón.",
@@ -10,7 +10,7 @@
   },
   {
     "nombre": "Tears of Steel",
-    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
     "categoria": "Ciencia ficción",
     "tipo": "pelicula",
     "sinopsis": "Un grupo intenta evitar una catástrofe provocada por robots en Ámsterdam.",
