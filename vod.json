@@ -1,0 +1,31 @@
+[
+  {
+    "nombre": "Sintel",
+    "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+    "categoria": "Fantasía",
+    "tipo": "pelicula",
+    "sinopsis": "Una joven emprende un viaje para encontrar a un pequeño dragón.",
+    "credito": "© Blender Foundation | durian.blender.org — CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/ — Sin cambios en el video.",
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/sintel.png"
+  },
+  {
+    "nombre": "Tears of Steel",
+    "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+    "categoria": "Ciencia ficción",
+    "tipo": "pelicula",
+    "sinopsis": "Un grupo intenta evitar una catástrofe provocada por robots en Ámsterdam.",
+    "credito": "© Blender Foundation | mango.blender.org — CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/ — Sin cambios en el video.",
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/tears.png"
+  },
+  {
+    "nombre": "Cosmos Laundromat: First Cycle (piloto)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cosmos_Laundromat_-_First_Cycle_-_Official_Blender_Foundation_release.webm",
+    "categoria": "Animación · 13+",
+    "tipo": "serie",
+    "sinopsis": "Piloto de un proyecto de película episódica. Una oveja recibe una oferta extraordinaria en una isla solitaria.",
+    "credito": "Blender Foundation | https://gooseberry.blender.org/ — CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/ — Sin cambios en el video.",
+    "temporada": 1,
+    "episodio": 1,
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/cosmos.png"
+  }
+]
