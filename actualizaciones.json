@@ -1,4 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.9"
+    "versionCode":  20,
+    "versionName":  "1.9.1",
+    "url":  "https://github.com/claudio182x/blackservertv-catalogo/releases/download/v1.9.1/BlackServerTV-v1.9.1.apk",
+    "sha256":  "98933f2539b87bbf25e5cd9f3e4b68eb268977558f802eafafe5c53f576ba417"
 }
