@@ -6,7 +6,8 @@
     "tipo": "pelicula",
     "sinopsis": "Una joven emprende un viaje para encontrar a un pequeño dragón.",
     "credito": "© Blender Foundation | durian.blender.org — CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/ — Sin cambios en el video.",
-    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/sintel.png"
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/sintel.png",
+    "destacado": false
   },
   {
     "nombre": "Tears of Steel",
@@ -15,7 +16,8 @@
     "tipo": "pelicula",
     "sinopsis": "Un grupo intenta evitar una catástrofe provocada por robots en Ámsterdam.",
     "credito": "© Blender Foundation | mango.blender.org — CC BY 3.0 — https://creativecommons.org/licenses/by/3.0/ — Sin cambios en el video.",
-    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/tears.png"
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/tears.png",
+    "destacado": false
   },
   {
     "nombre": "Cosmos Laundromat: First Cycle (piloto)",
@@ -26,6 +28,17 @@
     "credito": "Blender Foundation | https://gooseberry.blender.org/ — CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/ — Sin cambios en el video.",
     "temporada": 1,
     "episodio": 1,
-    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/cosmos.png"
+    "logo": "https://raw.githubusercontent.com/claudio182x/blackservertv-catalogo/main/portadas/cosmos.png",
+    "destacado": false
+  },
+  {
+    "nombre": "Las aventuras de Tintin",
+    "url": "https://archive.org/download/tintin-espanol/Cap%20%201%20%20TINTIN%20EN%20AMERICA.mp4",
+    "categoria": "Animacion",
+    "logo": "https://telechancho.github.io/telechancho-iptv/covers/episodes/E1_COVER.jpg",
+    "tipo": "pelicula",
+    "destacado": true,
+    "sinopsis": "Las aventuras de Tintin",
+    "credito": "Las aventuras de Tintin"
   }
 ]
