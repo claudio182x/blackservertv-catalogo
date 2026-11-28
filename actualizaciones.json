@@ -1,6 +1,7 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.9.1",
-    "url":  "https://github.com/claudio182x/blackservertv-catalogo/releases/download/v1.9.1/BlackServerTV-v1.9.1.apk",
-    "sha256":  "98933f2539b87bbf25e5cd9f3e4b68eb268977558f802eafafe5c53f576ba417"
+    "versionCode":  21,
+    "versionName":  "1.9.2",
+    "url":  "https://github.com/claudio182x/blackservertv-catalogo/releases/download/v1.9.2/BlackServerTV-v1.9.2.apk",
+    "novedades":  "Nueva interfaz de actualizacion; version automatica y progreso de descarga.",
+    "sha256":  "ea48980d2e3689429774ec0c1273f1964d9cffa8e540b0663d23e53d8daeed7d"
 }
